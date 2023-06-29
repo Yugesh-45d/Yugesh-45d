@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <div><p><a href="https://www.buymeacoffee.com/yugesh.45d"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yugesh.45d" /></a><a href="https://ko-fi.com/yugesh_45d"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yugesh_45d" /></a></p></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugesh-45d&show_icons=true&locale=en&layout=compact" alt="yugesh-45d" /></p>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugesh-45d&show_icons=true&locale=en&layout=compact" alt="yugesh-45d" /></p></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugesh-45d&show_icons=true&locale=en" alt="yugesh-45d" /></p>
 
