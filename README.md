@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I am a Software Developer from Nepal.
-I'm Currently Learning Flutter.
+I'm Currently playing with flutter for mobile application development.
 
 
 ## 🌐 Socials:
