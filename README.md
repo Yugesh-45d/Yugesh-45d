@@ -2,11 +2,6 @@
 Hey, I am a Software Developer from Nepal.                              
 I'm Currently playing with flutter for mobile application development.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yugesh-45d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yugesh-45d&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yugesh-45d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
